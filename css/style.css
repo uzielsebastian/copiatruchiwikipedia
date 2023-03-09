@@ -1,0 +1,96 @@
+*header{
+    background-color: aliceblue;
+
+}
+
+nav{
+    background-color: #8abdd4;
+
+}
+
+
+footer{
+    background-color: #8abdd4
+    ;
+
+}
+
+body{
+    background-color: aliceblue;
+    color:darkslategray;
+    font-family: 'MyWebFont';
+}
+
+#titulo {
+    color: rgba(30, 84, 155, 0.575) ;
+}
+
+h1{
+    font-weight: 300;
+    color: dimgray
+    
+    
+;
+font-family: 'MyWebFont' ;
+
+margin-top: 0px;
+}
+
+.titulo{
+    color: rgb(96, 96, 190);
+
+}
+
+footer p:nth-child(2){
+    text-align: left;
+    color: rgba(113, 132, 216, 0.479);
+    text-transform: uppercase;
+    text-shadow: 5px 5px 5px
+}
+
+
+
+p{
+    font-size: 13px;
+    line-height: 20px;
+    letter-spacing: 3px;
+    text-align:left;
+    width:80% ;
+    margin:0 auto;
+}
+
+ul{
+    display: inline-block;
+}
+ul li{
+    display: inline-block;
+
+}
+
+
+
+nav ul li a {
+    background-color: #B2EBF2;
+    text-decoration: none;
+
+    padding: 5px;
+
+    color:rgb(115, 106, 196)
+
+}
+
+nav ul li a:hover{
+    color: rgb(121, 121, 184);
+}
+
+.logodewikipedia{
+    width: 20%
+    ;
+}
+
+section{ 
+    width:80% ;
+    margin:0 auto;
+    font-family: 'MyWebFont'
+}
+
